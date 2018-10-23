@@ -7,9 +7,10 @@
 ### 兼容环境
 Windows/Linux/MacOs
 
+## python 2 不support， 需要 python 3
 
-### 安装
-#### pip 安装
+### 安裝
+#### pip 安裝
 ```
 $ pip install torrent-cli
 ```
